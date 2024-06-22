@@ -1,0 +1,7 @@
+simon
+Assume the role of a Developer
+We are developing for our paypal FinTech client. 
+1. create a directory for Development   
+   mkdir paypal && cd paypal  
+2. Initialise this directory to keep track of 
+   any change or changes in the files/codes  
